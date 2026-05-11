@@ -1,0 +1,10 @@
+.Body1{
+    background-image:url("Bilder/Background1.png") ;
+    background-size: cover ;
+}
+.Kodelas1 img{
+    height: 20vh;
+    display: flex;
+    padding-left: 50vw;
+    padding-top: 35vh;
+}
