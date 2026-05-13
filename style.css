@@ -5,13 +5,13 @@
 .Kodelas1 img{
     height: 20vh;
     display: flex;
-    padding-left: 50vw;
-    padding-top: 35vh;
+    margin-left: 50vw;
+    margin-top: 35vh;
 }
 .Las{
     height: 40vh;
     width: 15vw;
-    padding-left: 42vw;
+    margin-left: 42vw;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -40,4 +40,36 @@ border: solid;
 }
 .Body2{
     background-image: url("Bilder/background3.jpg");
+}
+.Body3{
+    background-image: url("Bilder/Background4.jpg");
+    background-size: cover;
+}
+.Drop_zone{
+    width: 30vw;
+    height: 60vh;
+}
+.Body9{
+    background-image: url('Bilder/Background5.png');
+    background-size: cover;
+}
+.Body5{
+    background-image: url('Bilder/Background6.png');
+    background-size: cover;
+}
+.HuleInn{
+    display: block;
+    width: 17vh;
+    height: 20vh;
+    margin-top: 80vh;
+    margin-left: 15vw;
+}
+.Body6{
+    background-image: url('Bilder/Background7.png');
+    background-size: cover;
+}
+.Escape2{
+    display: block;
+    height: 90vh;
+
 }
