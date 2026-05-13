@@ -8,3 +8,36 @@
     padding-left: 50vw;
     padding-top: 35vh;
 }
+.Las{
+    height: 40vh;
+    width: 15vw;
+    padding-left: 42vw;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center
+}
+.Las button{
+height: 4vw;
+width: 4vw;
+border: solid;
+}
+.Input_kode{
+    font-size: 2rem;
+    display: flex;
+    justify-content: center
+}
+.Hele_Input{
+    border: solid;
+    background-color: gray;
+}
+.Pil{
+    font-size:2rem ;
+    margin:0;
+    background-color: aliceblue;
+    border: solid;
+    border-radius: 2vh;
+}
+.Body2{
+    background-image: url("Bilder/background3.jpg");
+}

@@ -19,6 +19,7 @@ if (input.length === 4) check();
 /* Sjekker om den er lik const CODE som vi skrev tidligere. tre erlik tegn === gjør at den sjekker at det er nøyaktig lik. og hvis det er riktigt så sender den deg til REDIRECT som er linka til neste side.  */
 function check(){
 if (input === CODE){
+    alert('Riktig kode!')
     window.location.href = REDIRECT;
 
 } else{
