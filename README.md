@@ -6,6 +6,6 @@ Du kan komme på utfordringer som feks: Dra gjenstander, klikke på gjenstander 
 
 Bakgrunn på side rom 3 er KI-generert. 
 
-Generert med ChatGPT OpenAI - https://chatgpt.com/
+Bilder Generert med ChatGPT - https://chatgpt.com/
 
 Kode og mesteparten av bilder laget av: Henry Ross aka @heroa028
