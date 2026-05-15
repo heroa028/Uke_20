@@ -1,4 +1,4 @@
-Dette er et skoleprosjekt, hvor vi skal lage et escape room av html, css og litt javascript hvis det er nødvendig. 
+Dette er et skoleprosjekt, hvor vi skal lage et escape room av html, css og javascript. 
 
 Det inneholder 4 forskjellige rom du skal gjennom for å kunne "Escape". Målet med spillet er å bli fri fra fengselet. 
 
