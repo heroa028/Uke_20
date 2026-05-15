@@ -7,14 +7,17 @@
     <link rel="stylesheet" href="style.css">
 
 </head>
+<!--Her har jeg brukt en class i bodyen for å kunne sette forskjellig bakgrunn på de forskjellige bodyene og fortsatt ha ett css ark. -->
 <body class="Body2">
 
-
+<!--her er Pilen for å gå tilbake til forrige side-->
     <a href="index.html">
         <p class="Pil"><-</p>
     </a>
-    <div class="Hele_Input">
 
+    <!--Her måtte jeg bruke to "Diver/sections" får å kunne flexe og csse riktig ting. -->
+    <div class="Hele_Input">
+<!--Her har jeg id på første så jeg kan legge til en funskjon i javascript som bytter ut ____ med tall, ved hjelp av id-->
     <p class="Input_kode" id="Input_Kode">____</p>
     <section class="Las">
     <button onclick="press('1')">1</button>
@@ -30,6 +33,7 @@
 </section>
 
 </div>
+<!--Her linkes javscriptet etter html delen som trenger javascript så den vet at det har "Skjedd"-->
     <script src="Kode.js"></script>
 </body>
 </html>

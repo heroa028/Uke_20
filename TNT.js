@@ -1,3 +1,4 @@
+/* Dette henter "Elementet" i id en og gjør det om til en const */
 const TNT = document.getElementById('TNT');
 const Drop_zone = document.getElementById('Drop_zone');
 

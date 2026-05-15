@@ -51,7 +51,7 @@ border: solid;
     background-image: url("Bilder/Background4.png");
     background-size: cover;
 }
-.Drop_zone{
+#Drop_zone{
     width: 30vw;
     height: 60vh;
 }

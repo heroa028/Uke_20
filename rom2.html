@@ -6,13 +6,18 @@
     <title>Escape room (Room 2)</title>
     <link rel="stylesheet" href="style.css">
 </head>
+<!--Her har jeg brukt en class i bodyen for å kunne sette forskjellig bakgrunn på de forskjellige bodyene og fortsatt ha ett css ark. -->
 <body class="Body3">
 
+     <!--Dette er pilen for å gå tilbake til forrige side-->
     <a class="Pil2" href="Kodelas1.html"> <p><-</p></a>
+    <!--Dette er TNT bilde med en ID som forteller javascriptet og css hvilken den er, og draggable = true gjør at man kan dra den rundt. -->
         <img id="TNT" draggable="true" src="Bilder/Tnt.png" alt="">
-        <div class="Drop_zone" id="Drop_zone"> 
+        <!--Dette er hvor man skal slippe TNTen og blir tatt til neste side. -->
+        <div id="Drop_zone"> 
 
         </div>
+        <!--Her linker jeg til javasciptet til TNT funskjonen, og dette må ligge etter det andre for at det skal funke, pga hvis den er før bilde med TNT iden så vet den ikke eat den finnes/har skjedd. -->
         <script src="TNT.js"></script>
 
 
