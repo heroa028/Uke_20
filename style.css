@@ -38,11 +38,17 @@ border: solid;
     border: solid;
     border-radius: 2vh;
 }
+.Pil2{
+    font-size: 2rem;
+}
+.Pil3{
+    font-size: 2rem;
+}
 .Body2{
     background-image: url("Bilder/background3.jpg");
 }
 .Body3{
-    background-image: url("Bilder/Background4.jpg");
+    background-image: url("Bilder/Background4.png");
     background-size: cover;
 }
 .Drop_zone{
@@ -72,4 +78,16 @@ border: solid;
     display: block;
     height: 90vh;
 
+}
+
+@keyframes TNT{
+    from{padding-left: 100vh ;
+    rotate: 0deg ;}
+    to{padding-left: 0;
+    rotate: -180deg;}
+}
+
+#TNT{
+    animation-name: TNT;
+    animation-duration: 2s;
 }
