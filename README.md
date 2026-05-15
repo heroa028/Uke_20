@@ -4,4 +4,8 @@ Det inneholder 4 forskjellige rom du skal gjennom for å kunne "Escape". Målet 
 
 Du kan komme på utfordringer som feks: Dra gjenstander, klikke på gjenstander og trykke på knappe kombinasjoner. 
 
-Laget av: Henry Ross aka @heroa028
+Bakgrunn på side rom 3 er KI-generert. 
+
+Generert med ChatGPT OpenAI - https://chatgpt.com/
+
+Kode og mesteparten av bilder laget av: Henry Ross aka @heroa028
